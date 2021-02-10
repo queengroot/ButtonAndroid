@@ -23,7 +23,7 @@ public class HelloWorldActivity extends AppCompatActivity {
     //Code for topClick
     public void topClick(View v){
         Toast.makeText(this, "Top button clicked.",Toast.LENGTH_SHORT).show();
-        Log.i("info","The user clicked the top button.");
+        Log.i("info","The user clicked the top button. Testing");
 
 
     }
